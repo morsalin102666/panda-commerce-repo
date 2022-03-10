@@ -1,0 +1,17 @@
+.bg-panda{
+    background-color: #FEEAE9;
+}
+.categories img{
+    height: 100px;
+}
+
+.btn-panda-btn{
+    background-image: linear-gradient(red, green);
+    color: white;
+    border: 1px solid green;
+}
+.btn-panda-btn:hover{
+    background-image: linear-gradient(green, red);
+    color: white;
+    border: 1px solid red;
+}
